@@ -3,7 +3,7 @@ This is based on data from netflix about Netflix where I did a few assignements 
 columns that give us more information for these movies), and last but not least creating a scatter
 plot that will help determine of netflix movies are becoming shorter as time goes on.
 
-How?
+# How?
 This was done using matplotlib and pandas. I used some techniques I have aquired from data camp to handle with sorting, slicing, and indexing to get the data I need.
 
 # Why?
