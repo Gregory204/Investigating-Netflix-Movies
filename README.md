@@ -5,10 +5,10 @@
 This project explores the Netflix dataset to analyze the duration of movies and investigate if there is evidence of movies getting shorter over time. The analysis involves loading the Netflix data, filtering out TV shows, and focusing on movies. We then examine the distribution of movie durations, particularly those shorter than 60 minutes, and those longer than 60 minutes or 60 minutes exactly. The findings are visualized through a bar plot to provide insights into the trend of movie durations over the years.
 
 # Short Movies Bar Chart:
-<img width="999" alt="Screenshot 2024-01-23 at 4 45 07 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/e246e5c7-d700-48fa-91c2-5730abf2f7cc">
+<img width="996" alt="Screenshot 2024-01-23 at 5 00 30 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/f63b50bb-d018-4d20-80a9-54340a2f4e57">
 
 # Long Movies Bar Chart:
-<img width="997" alt="Screenshot 2024-01-23 at 4 52 19 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/e5639495-8300-4057-88a1-75c7e7edccc2">
+<img width="998" alt="Screenshot 2024-01-23 at 5 02 01 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/3aca29fa-d60e-4f2b-b217-0e43bd0dfeda">
 
 # How?
 
