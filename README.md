@@ -1,13 +1,31 @@
-# What is this about?
-This is based on data from netflix about Netflix where I did a few assignements to find movies that are shorter than 60 mins, filtering the data to where we only have movies (also keeping the 
-columns that give us more information for these movies), and last but not least creating a scatter
-plot that will help determine of netflix movies are becoming shorter as time goes on.
+# Netflix Movie Duration Analysis #
+
+# Overview
+
+This project explores the Netflix dataset to analyze the duration of movies and investigate if there is evidence of movies getting shorter over time. The analysis involves loading the Netflix data, filtering out TV shows, and focusing on movies. We then examine the distribution of movie durations, particularly those shorter than 60 minutes, and those longer than 60 minutes or 60 minutes exactly. The findings are visualized through a bar plot to provide insights into the trend of movie durations over the years.
+
+# Short Movies Bar Chart:
+<img width="999" alt="Screenshot 2024-01-23 at 4 45 07 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/e246e5c7-d700-48fa-91c2-5730abf2f7cc">
+
+# Long Movies Bar Chart:
+<img width="997" alt="Screenshot 2024-01-23 at 4 52 19 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/e5639495-8300-4057-88a1-75c7e7edccc2">
+
+# Short Vs Long Movies:
+<img width="999" alt="Screenshot 2024-01-23 at 4 54 33 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/19d0cbed-7b78-4d9b-8e7a-ecf8d71da303">
 
 # How?
-This was done using matplotlib and pandas. I used some techniques I have aquired from data camp to handle with sorting, slicing, and indexing to get the data I need.
+
+The analysis is conducted using Python, with the primary libraries being Matplotlib and Pandas. Various data manipulation techniques, such as sorting, slicing, and indexing, are employed to extract relevant information from the Netflix dataset.
 
 # Why?
-I have been getting really into data recently and wanted to try this task and see how well I could answer the questions that were given to me. Using the data from the csv made me feel like I can do whatever I set my mind to and learning about data analysis is really cool for me. But in the future I hope to build my knowledge more for deep learning, machine learning, and hopefully artificial intelligence.
 
-# Whats next? 
-Hopefully I can work on more things relating to data because this stuff is fun for me to do and learn about so I only see it as a pro for me to work with something I enjoy doing and especially if it helps others around me. (More Projects coming soon)
+Driven by a growing interest in data analysis, this project serves as an exploration into the field. The task aims to answer questions about the changing landscape of Netflix movies and contributes to building skills in data analysis. Aspiring to delve into deep learning, machine learning, and artificial intelligence in the future, this project lays the foundation for broader knowledge in the field.
+
+# What's Next?
+
+Excited about the world of data, the plan is to continue working on more projects related to data analysis. The goal is to blend passion with work, creating enjoyable and meaningful projects that contribute positively to the community. Stay tuned for more exciting data-driven projects!
+
+# Conclusion
+
+After performing the analysis and visualizing the data, the question "Are we certain that movies are getting shorter?" is addressed. The answer is provided in the analysis results, offering insights into the evolving landscape of Netflix movies.
+
