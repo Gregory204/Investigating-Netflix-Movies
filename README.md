@@ -16,7 +16,6 @@ plt.xlabel('release_year')
 plt.ylabel('duration')
 plt.title('Movies Under 60 mins')
 plt.show()
-  ```
 ```
 
 ### Short Movies Bar Chart:
