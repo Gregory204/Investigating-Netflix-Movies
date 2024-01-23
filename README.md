@@ -74,7 +74,7 @@ After performing the analysis and visualizing the data, the question "Are we cer
   plt.show()
   ```
 
-### Short Vs Long Movies:
+### Short Vs Long Movies Bar Chart:
 <img width="999" alt="Screenshot 2024-01-23 at 4 54 33 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/19d0cbed-7b78-4d9b-8e7a-ecf8d71da303">
 
 
