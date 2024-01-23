@@ -10,9 +10,6 @@ This project explores the Netflix dataset to analyze the duration of movies and 
 # Long Movies Bar Chart:
 <img width="997" alt="Screenshot 2024-01-23 at 4 52 19 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/e5639495-8300-4057-88a1-75c7e7edccc2">
 
-# Short Vs Long Movies:
-<img width="999" alt="Screenshot 2024-01-23 at 4 54 33 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/19d0cbed-7b78-4d9b-8e7a-ecf8d71da303">
-
 # How?
 
 The analysis is conducted using Python, with the primary libraries being Matplotlib and Pandas. Various data manipulation techniques, such as sorting, slicing, and indexing, are employed to extract relevant information from the Netflix dataset.
@@ -23,9 +20,12 @@ Driven by a growing interest in data analysis, this project serves as an explora
 
 # What's Next?
 
-Excited about the world of data, the plan is to continue working on more projects related to data analysis. The goal is to blend passion with work, creating enjoyable and meaningful projects that contribute positively to the community. Stay tuned for more exciting data-driven projects!
+Excited about the world of data, the plan is to continue working on more projects related to data analysis. 
 
 # Conclusion
 
-After performing the analysis and visualizing the data, the question "Are we certain that movies are getting shorter?" is addressed. The answer is provided in the analysis results, offering insights into the evolving landscape of Netflix movies.
+After performing the analysis and visualizing the data, the question "Are we certain that movies are getting shorter?" is addressed. The answer is provided in the analysis results down below. (Hint: No they aren't getting shorter)
+
+# Short Vs Long Movies:
+<img width="999" alt="Screenshot 2024-01-23 at 4 54 33 PM" src="https://github.com/Gregory204/Investigating-Netflix-Movies/assets/131078905/19d0cbed-7b78-4d9b-8e7a-ecf8d71da303">
 
